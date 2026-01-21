@@ -1,0 +1,8 @@
+{
+  "name": "Hui Ai Jia - Charity & Home",
+  "description": "A comprehensive charity and lifestyle mini-program platform featuring donation projects, artisan goods, community feeds, and member honors.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
