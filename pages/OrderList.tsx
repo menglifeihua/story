@@ -5,8 +5,8 @@ import { useNavigate } from 'react-router-dom';
 const OrderList: React.FC = () => {
   const navigate = useNavigate();
   const orders = [
-    { id: '202310248892', name: '慧爱定制保温杯: 益路同行', status: '待收货', price: '59.00', spec: '烈焰红, 500ml', qty: '1', img: 'https://lh3.googleusercontent.com/aida-public/AB6AXuD-GtIc4Yr2Mq1_BBNQyu0BDdofuA30YvXs2VsOJefoSUqWNqg8S0px2tdK4ajvaA-UuEpH4D3UUVy2NLCmpKXv_Ntt7kdQsiloHxNXHHZpJFbfa4QMIw4Kjv8ftgPNSwsTzZBHdvOe4J44ReIVX62n_YSfife3ub0tR_lHRzzeTYCe_UrMfXeQl0XM0vTIwvlXlAygWOZgI1tnyrCmj3UEquEFd1nyyxTicj1mDD23l4ynB6MpSTRHzOb_0hStxPcaJOf4HKKNVQ' },
-    { id: '202310247751', name: '大凉山助农苹果: 脆甜多汁', status: '运输中', price: '45.00', spec: '家庭分享装 (5kg)', qty: '1', img: 'https://lh3.googleusercontent.com/aida-public/AB6AXuCAYPFse4H03Q4sFMxVmlvsB8e7MFjbrmtZ9kWsRrUZSVdF7ID8gf5xutdpdzhI8NtuX8KxBv7IRieqT8_282yFkmgrRBI6Hg0Bb_92nyD8BpXvwJVRcyeer_JTcavpZWBq5psnag8kOy7Z-kmOZu_Ul_VRSeSgHT0oWe74Yudc074zKxzz1UPojl4v6WrnZXdwT7A9XYj4ydH_fTaQkVe8t7fE6sh0dzxvjwwNloNe-i6qbEtJpI5dqlgkErBd98Bggf1or68qYw' }
+    { id: '202310248892', name: '慧爱定制保温杯: 益路同行', status: '待收货', price: '59.00', spec: '烈焰红, 500ml', qty: '1', img: '/book.png' },
+    { id: '202310247751', name: '大凉山助农苹果: 脆甜多汁', status: '运输中', price: '45.00', spec: '家庭分享装 (5kg)', qty: '1', img: '/grains.png' }
   ];
 
   return (

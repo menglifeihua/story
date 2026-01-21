@@ -15,7 +15,7 @@ const ProjectDetail: React.FC = () => {
 
       <div className="px-4 py-2">
         <div className="relative w-full aspect-[4/3] rounded-xl overflow-hidden shadow-lg">
-          <div className="absolute inset-0 bg-cover bg-center" style={{backgroundImage: `url("https://lh3.googleusercontent.com/aida-public/AB6AXuDBQpmdM61tcTKZiB64z4NEhNjRMNe1XFuwh1hmH5wah6mDd7e4DZbxxFYBMycDRsMul2Y1obp7CKpRUsrQRFIJSe_AVCvFBIOdqwxdi0Nmx_wUFJ0WqEDhpa70FCLQu73Awhsu1syYDunee-kHM9FC98BD5DXItiGYTpZoL3LAMIDBQXWkaoa9C35l9xT7tN17yYhuxsQ1m6x0_9qBLBv-haAmZmWwq1I5SjoECwKZPRVS3v99RcqKHNkbpcnBBsAVBXFpzTQcBg")`}}></div>
+          <div className="absolute inset-0 bg-cover bg-center" style={{backgroundImage: `url("/child_with_paintbrush.png")`}}></div>
           <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent"></div>
           <div className="absolute bottom-4 left-4 right-4">
             <span className="inline-block px-2 py-1 bg-primary text-white text-xs font-bold rounded mb-2 uppercase tracking-wider">正在筹款</span>

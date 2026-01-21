@@ -15,7 +15,7 @@ const Review: React.FC = () => {
       <main className="flex flex-col gap-4 p-4 mt-2">
         <div className="bg-white rounded-xl shadow-sm p-4 flex flex-col gap-4">
           <div className="flex items-center gap-4 py-2">
-            <div className="bg-center bg-cover rounded-lg size-16 shrink-0" style={{backgroundImage: "url('https://lh3.googleusercontent.com/aida-public/AB6AXuASLz3-ROUL4LQnDDGHpaOjLsVaBdjoGtgYrswpdE4KfwqbiPUjEj2_2KQJ34cuu4kuwvWqEaArjAuTc7JkqeE3qaXnZ54Wx7ntMZHyWhUTh79yyYTbBNTQQFY4j7_plcC_vu-FEIT18slELyQbnSS3xHbnUGGthxoQi2rotMJuxT7_PlbPh8WPWL9hm9cb5Mz9l5FSXIC1wFJhirmSwhUOTGZdN9COcIM7thVhT2SDcka23rzlqwTeCY2xM_CDCN4J1o1DghiWJA')"}}></div>
+            <div className="bg-center bg-cover rounded-lg size-16 shrink-0" style={{backgroundImage: "url('/avatar1.png')"}}></div>
             <div className="flex flex-col justify-center">
               <p className="text-[#181012] text-base font-bold line-clamp-1">爱心助农：红富士苹果 5kg</p>
               <p className="text-primary text-sm font-medium">规格：精品礼盒装</p>

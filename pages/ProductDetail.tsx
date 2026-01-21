@@ -33,7 +33,7 @@ const ProductDetail: React.FC = () => {
 
       <div className="px-4">
         <div className="relative aspect-[4/5] w-full overflow-hidden rounded-2xl bg-gray-100 shadow-sm">
-          <div className="absolute inset-0 bg-cover bg-center" style={{backgroundImage: "url('https://lh3.googleusercontent.com/aida-public/AB6AXuDOS56j_S4Q3qvvRnDFY_KYvQfFR86f7en_RNgSCT_zMw2xCDdnE3QvkK_SW8RXiSSP4fkJPUyXY9Tssy1yFChdrLojA-oEFkFh5s-Ne0PzP_oOq-cz2MLktwzKh247oDK2k_2qbswhVXdDtNRxXAwRUks1ZSWnEah_j5B5Fzv-LYtTeypb0RV_6V8X__gY14rAKSpK7AGPw0rOSe6b6RjvV-MVL7UgO8MU-1UqcKDsHPcg4LPb5Zl3Klhaodwed5DlOYH-Yl53eg')"}}></div>
+          <div className="absolute inset-0 bg-cover bg-center" style={{backgroundImage: "url('/book.png')"}}></div>
           <div className="absolute bottom-6 left-1/2 -translate-x-1/2 flex gap-1.5 px-3 py-1.5 rounded-full bg-white/20 backdrop-blur-md">
             <div className="size-1.5 rounded-full bg-white"></div>
             <div className="size-1.5 rounded-full bg-white/40"></div>
@@ -69,7 +69,7 @@ const ProductDetail: React.FC = () => {
           "Each piece is a dialogue between the clay and the hands. We don't strive for perfection, but for the soul that only human touch can provide."
         </p>
         <div className="mt-8 flex items-center gap-4">
-          <div className="size-11 rounded-full bg-cover bg-center border border-gray-100" style={{backgroundImage: "url('https://lh3.googleusercontent.com/aida-public/AB6AXuCKJWv8gfRscQ0MkOTiqAAfiZkKSb3DKtJbDZS7bXyb5VLWjVJMr9SNFkeBvYhDX-_XH5Pyy3WwLSq07hoS49EOaQ51Oe0yvIYdOiUeiUgwqZ6xLTRpHDjS3052q1Tivj-xDwLBnWs3uA9_OS-Mih7ic9pxmThv3HQ0vbBPXAzWj82GzMY4CSzEyJEE8hPZlOmtK8XSAUEFUSXnkonLH9Ti-AAihlw_kgyTFyKfu2sWQuAyBtlru4K6F9eu6o9jUlsuZ7OX_QlaxQ')"}}></div>
+          <div className="size-11 rounded-full bg-cover bg-center border border-gray-100" style={{backgroundImage: "url('/avatar2.png')"}}></div>
           <div>
             <p className="text-sm font-bold">Li Ming</p>
             <p className="text-xs text-gray-500">Master Ceramist, Jingdezhen</p>

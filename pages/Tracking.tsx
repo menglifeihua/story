@@ -29,7 +29,7 @@ const Tracking: React.FC = () => {
               </div>
             </div>
             <div className="w-16 h-16 bg-slate-50 rounded-xl flex items-center justify-center border border-slate-100 overflow-hidden shrink-0">
-              <div className="w-full h-full bg-cover bg-center" style={{backgroundImage: "url('https://lh3.googleusercontent.com/aida-public/AB6AXuBkrVLxMeMAZwEHcfnkrChcd3IwT9mC4VLcGd2mBfPPZy54szWRkBGTG9wcqyNXkHBe1I0XObEgNmZx8P0jj-y8nO5TI8uyaHGiyRMUSQwjRtf56BXHkWFAe_lKY91ITFWe5SBEHLEEIjJFp53lvltd26ZLb3Pbx00UV7bARqUVn_duFoCjvHyxLYR1LebVm3zD80yntjSO5-OJOwL05UzdpYCGJ_ZAVuG-7mmVsKtv7onmppqr_EBj7BrSiQGI9h8MHYjH8p39UA')"}}></div>
+              <div className="w-full h-full bg-cover bg-center" style={{backgroundImage: "url('/book.png')"}}></div>
             </div>
           </div>
           <div className="mt-5 pt-4 border-t border-slate-50 flex items-center gap-2">

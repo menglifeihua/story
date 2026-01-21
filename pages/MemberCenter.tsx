@@ -17,7 +17,7 @@ const MemberCenter: React.FC = () => {
         <div className="flex items-center gap-4">
           <div className="relative">
             <div className="size-20 rounded-full border-2 border-primary/20 p-1">
-              <div className="w-full h-full rounded-full bg-cover bg-center" style={{backgroundImage: "url('https://lh3.googleusercontent.com/aida-public/AB6AXuATEAlPFn3Z7BcGn3NWcBtlrNjoR0I5-SCTWGhuRn_vVorbDlmJop0EXJI2K2UEGycC3l8ZbrgD8DKSOKQu8Oh-PtNbOTg3jI5BQ3j2pk4xUtmTjWjK-TrjoIIgFdGK_MR6VfpUdOlIbxIE9M4-p08lzBJ6YJoRakpSyiLzSeUqQ9I4frkeARJmTd-u4ygmszXcEIspfZY5f_6N3MTOGQIcncjUrksHBBLyTDmA5tgXmiRN7PQcteD0mwy_H3NXjiUcXOa2Xb-AcQ')"}}></div>
+              <div className="w-full h-full rounded-full bg-cover bg-center" style={{backgroundImage: "url('/avatar1.png')"}}></div>
             </div>
             <div className="absolute -bottom-1 -right-1 bg-primary px-2 py-0.5 rounded-full border border-white">
               <p className="text-[10px] text-white font-bold">V3</p>

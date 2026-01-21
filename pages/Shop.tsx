@@ -12,42 +12,42 @@ const Shop: React.FC = () => {
       price: '45.00', 
       sold: '1.2k', 
       category: '传统手工艺',
-      img: 'https://lh3.googleusercontent.com/aida-public/AB6AXuBzMtmZuOkES9gf0rXsfFzIN-PEmdSrpNPdBDVAawpNqcPCkYeSihKob_ubKlwXQPTb6J8a_TZnHCwtqi5OPFlR39LEztSVPdQVbMqIYKjdmWW7RQIlE2a2hbK4FTsNyt4U_AS6hOHYlDzEDGbsX77RFfIdpR5Dyq7CJQZFbbrh2sKTN8xuZ2qr5tAgdpVQcVXpT9Ki0wS0vFhrXLB8HcZfYPCftUy4JzA_JEp4p4G_Z8wfXlRqWTazVLTUS79epnXiKRcieN2vRA' 
+      img: '/bamboo_basket.png' 
     },
     { 
       name: '高山有机红薯', 
       price: '29.90', 
       sold: '560', 
       category: '生鲜食品',
-      img: 'https://lh3.googleusercontent.com/aida-public/AB6AXuBGWuKPwCC9wGjru0CZWc3CL6F2Eh0_hrI6tCBTZlhdqcF3PQWO6RPrrl0itoR2feoPD4lx24-TFudY3JrL79mDnAHL7fcvthT175-5cOf0KAiULF0TzZch7z9swYsfXfgkObl7XAaY0r_A0wy7IljfNGiFp-XdFQNoEI5GmmIrplfT-g1W2AowRgOGpSOIPHD-PGYBbXf3G2eiAEeLm-uavIvj9rjxfZyEOwdYD3soLuaPKj8xL-e8mlF6JECh5cemD8rUNei2ow' 
+      img: '/rice.png' 
     },
     { 
       name: '环保布艺袋 (米白色)', 
       price: '15.00', 
       sold: '320', 
       category: '生活用品',
-      img: 'https://lh3.googleusercontent.com/aida-public/AB6AXuD-5JMuej4qJo7Nkdrs_SkI4Il0beWHMkfc54GBoEhHkc3HUHNpYrihcXBxZgi-_omQfis3XmFxgZDgqan_DHGqWKkaQo47ke-p915ZHx0AnZ64qoeA23HWd4dkMI073oJMxLU40nYmUL4JdQ504ElgvUi763AkcOZVv2dg1Bk_fGpDtCjtKVkIM7kuZAEsAFkGvGG3Nxw_-zo-bc_XsnDPDwK4Y2UPLGUhmqo2okhSm7OdBh8P41vlO1fHkARD3A2W_iVhDY_32Q' 
+      img: '/eco_bag.png' 
     },
     { 
       name: '纯手工无添加草莓酱', 
       price: '38.00', 
       sold: '89', 
       category: '生鲜食品',
-      img: 'https://lh3.googleusercontent.com/aida-public/AB6AXuB9J2ZBzlBiHp7wLCNlgIve_V10JRjIoA6iec4MnK9z-FAXb2C2cRrZqPK73wyJeRIiQzziTf1YQHtvjp9JNravTAHxniDu6GbL5bCHiWRr9nYdyKIbpjzYOeEYkJ7bg6tMnW0Z8ORyhv_YnDB7tAEyBTzxigbSE8jKxY7aE8sYzJMw3njYYkthfFFdCN2Neq06BFwPLWjKCqAjpVAjuzSkcbVKq6MIA4eCIWb1bJsLHGfkANPCWxI5GTebxW2MesY6bmABtF91og' 
+      img: '/book.png' 
     },
     { 
       name: '粗陶手作茶杯', 
       price: '68.00', 
       sold: '210', 
       category: '传统手工艺',
-      img: 'https://lh3.googleusercontent.com/aida-public/AB6AXuBnl3InCiCSOWgGNzWSrBLoKn1n7l95PEcQqG_9CgaLTvG-Zbuw_NW8hPHFHycYRCO30bXUQjepAwIGmjS4OUGvDH1_hhFdFC9MajQINOFQ2nXmO_f58MMPsAcj7iDjqwgmGUbkVBNoAHeJBc_3-9siPgqorvVR4t4PBgpHnu06fa_6DulcX1-r6Mp6rvR0ZbvX8ld3cHixh-M06TngIu-qFSN4Rh7TC1K57yAE33a82bJ6-sswJ0u9y0ipjIpA23_cnLqkfXPwuA' 
+      img: '/book.png' 
     },
     { 
       name: '深山土蜂蜜 (500g)', 
       price: '128.00', 
       sold: '450', 
       category: '生鲜食品',
-      img: 'https://lh3.googleusercontent.com/aida-public/AB6AXuBxYnaL2TfYfDzuOTrUJZPDVJJ6ExwCohLovqdUkoPmGOh8kqFvR6OuaILLf_eYDZUA3Dxntk5QwB7UP1OJymwTY1Z6czDqXy7uFBe5aEP0s1vCRrBeVeaH_TR_T__g5RwyEw_qYY1VfvAE4fXEW9WRyD4zGJvtrFEqEdX_mvV0Sx4bKG9cUyoE5xdwWItfakpJwtB6CreHfqzPKLTzmtVXIMVMs0r3n28iL9F76lid8UOJ3Mqs5RQgxhRaQaliWVWIt1NGtsvRFQ' 
+      img: '/honey.png' 
     }
   ];
 

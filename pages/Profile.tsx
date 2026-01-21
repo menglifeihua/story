@@ -20,7 +20,7 @@ const Profile: React.FC = () => {
           className="flex items-center gap-4 cursor-pointer active:opacity-90 transition-opacity"
         >
           <div className="relative">
-            <div className="size-16 rounded-full border-2 border-white/60 bg-center bg-cover shadow-inner" style={{backgroundImage: `url("https://lh3.googleusercontent.com/aida-public/AB6AXuATEAlPFn3Z7BcGn3NWcBtlrNjoR0I5-SCTWGhuRn_vVorbDlmJop0EXJI2K2UEGycC3l8ZbrgD8DKSOKQu8Oh-PtNbOTg3jI5BQ3j2pk4xUtmTjWjK-TrjoIIgFdGK_MR6VfpUdOlIbxIE9M4-p08lzBJ6YJoRakpSyiLzSeUqQ9I4frkeARJmTd-u4ygmszXcEIspfZY5f_6N3MTOGQIcncjUrksHBBLyTDmA5tgXmiRN7PQcteD0mwy_H3NXjiUcXOa2Xb-AcQ")`}}></div>
+            <div className="size-16 rounded-full border-2 border-white/60 bg-center bg-cover shadow-inner" style={{backgroundImage: `url("/avatar1.png")`}}></div>
             <div className="absolute -bottom-0.5 -right-0.5 bg-white rounded-full p-0.5 shadow-sm">
               <span className="material-symbols-outlined text-primary text-[12px] font-bold">verified</span>
             </div>
@@ -107,7 +107,7 @@ const Profile: React.FC = () => {
             </div>
           </div>
           <div className="flex -space-x-2.5">
-            <div className="size-8 rounded-full border-2 border-white bg-gray-200 bg-cover shadow-sm" style={{backgroundImage: `url("https://lh3.googleusercontent.com/aida-public/AB6AXuDsMCVm0ENUQ1go9WCczXfINc2icym-0RE85ix2p0HWncrWJG1Vo7KHp0Ysi8tL0LJQhVgMh8uZ9BUm2w5jLi5xFbQ0U-g0tyYc-Bh_bLjq7Y6gKDdQti6JZjp5kEuFJFYNE-5jamc6BRriNE1Yxo67CFX6Qi9CEz1VpJsauIyp1BhecEgn-WtNC4pAFenhM70Ieo2Phj1-i7ykTlxHclDLCP71-x6vCOYrVxS_90wmyHmqYUjjaOF4741AUx2aibtv0yPbN2rdnA")`}}></div>
+            <div className="size-8 rounded-full border-2 border-white bg-gray-200 bg-cover shadow-sm" style={{backgroundImage: `url("/avatar2.png")`}}></div>
             <div className="size-8 rounded-full border-2 border-white bg-primary text-white flex items-center justify-center text-[10px] font-bold shadow-sm">+10</div>
           </div>
         </div>

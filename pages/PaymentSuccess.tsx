@@ -26,7 +26,7 @@ const PaymentSuccess: React.FC = () => {
 
       <div className="px-6 py-4 relative z-10">
         <div className="flex flex-col rounded-2xl overflow-hidden bg-white shadow-xl border border-primary/5">
-          <div className="w-full aspect-[4/3] bg-cover bg-center relative" style={{backgroundImage: `url("https://lh3.googleusercontent.com/aida-public/AB6AXuAIAI53TJq0PBcAaQMJBInNNYu0fcYRZk99yIV0KfV1Kzy2J5mFSmqGb5WUnjTqWEKq_3Odaf0nCVbYzIDnhUXk0pvRsEDQf98cDlNdezLE1iTvM4xlkfAPLN1K4I9D_efmu8LVeq66fyNkgLsWvLYKG8ZpxzvQDxq169kBx_ditTiqRZj0aWdUpTMgQtlHfAZ6s9tUkf5uZnis5GAxWha8T8vcGlOXkTa_GMGGW6L9zwW9JUkCRDZBt5Q2SqTrjbKY_-SIvffIcA")`}}>
+          <div className="w-full aspect-[4/3] bg-cover bg-center relative" style={{backgroundImage: `url("/book.png")`}}>
             <div className="absolute inset-0 bg-gradient-to-t from-white via-transparent to-transparent"></div>
             <div className="absolute bottom-4 left-4">
               <span className="bg-primary px-3 py-1 rounded-full text-[10px] font-bold text-white uppercase tracking-widest">爱心见证</span>

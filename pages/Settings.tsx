@@ -15,7 +15,7 @@ const Settings: React.FC = () => {
       <main className="p-4 space-y-4">
         <section className="bg-white rounded-2xl p-4 shadow-sm border border-gray-100 flex items-center justify-between cursor-pointer active:bg-gray-50 transition-colors">
           <div className="flex items-center gap-4">
-            <div className="size-12 rounded-full bg-cover bg-center" style={{backgroundImage: "url('https://lh3.googleusercontent.com/aida-public/AB6AXuATEAlPFn3Z7BcGn3NWcBtlrNjoR0I5-SCTWGhuRn_vVorbDlmJop0EXJI2K2UEGycC3l8ZbrgD8DKSOKQu8Oh-PtNbOTg3jI5BQ3j2pk4xUtmTjWjK-TrjoIIgFdGK_MR6VfpUdOlIbxIE9M4-p08lzBJ6YJoRakpSyiLzSeUqQ9I4frkeARJmTd-u4ygmszXcEIspfZY5f_6N3MTOGQIcncjUrksHBBLyTDmA5tgXmiRN7PQcteD0mwy_H3NXjiUcXOa2Xb-AcQ')"}}></div>
+            <div className="size-12 rounded-full bg-cover bg-center" style={{backgroundImage: "url('/avatar1.png')"}}></div>
             <div>
               <p className="font-bold text-gray-900">个人主页设置</p>
               <p className="text-xs text-gray-400">修改头像、昵称、寄语</p>
